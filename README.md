@@ -37,7 +37,7 @@ The important modules:
 
 ## Quickstart
 
-You might want to take a look at the <a href="https://github.com/albertuskelvin/probabilistic-covshift/tree/master/example">example</a>.
+You might want to take a look at the <a href="https://github.com/albertuskelvin/probabilistic-covshift/tree/main/example">example</a>.
 
 ### A) Compute weight
 
